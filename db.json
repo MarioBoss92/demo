@@ -1,6 +1,13 @@
 {
-  "id":1,
-  "temperature":10,
-  "switch":true,
-  "flag":1
+  "posts": [
+    {
+      "id":1,
+      "temperature":10,
+      "switch":true,
+      "flag":1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
